@@ -12,6 +12,8 @@ DURATION: 4 Weeks
 
 MENTOR: Neela Santhosh Kumar
 
+---
+
 # Task Description – Database Backup and Recovery
 
 The fourth task of my internship at CodTech IT Solutions focused on Database Backup and Recovery, a vital aspect of database management, especially in production environments where data loss can lead to significant operational and financial consequences. This task was designed to help me understand how to safeguard critical data and ensure smooth recovery in case of system failures, data corruption, or unexpected deletions.
