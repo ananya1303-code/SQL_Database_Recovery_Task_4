@@ -1,10 +1,15 @@
 # SQL_Database_Recovery_Task_4
 
 COMPANY: CodTech IT Solutions
+
 NAME: Ananya Verma 
+
 INTERN ID: CT04DG180 
+
 DOMAIN: SQL
+
 DURATION: 4 Weeks
+
 MENTOR: Neela Santhosh Kumar
 
 # Task Description – Database Backup and Recovery
